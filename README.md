@@ -27,6 +27,15 @@
 </p>
 </div>
 
+  <h5> ⦁ 네이버 클라우드 AIaaS 과정 5기 2023.03.10. ~ 2023.09.11 </h5>
+
+
+
+
+
+🎈 <I>[PORTFOLIO]</I>      
+✏️ <I>[DEVLOG](https://parkseryu.tistory.com/)</I>    
+
 <!--
 **ParkSeryu/ParkSeryu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
