@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/NCP-GR?style=flat-square&logo=Naver&logoColor=white" >
 <img src="https://img.shields.io/badge/React-61DBFB?style=flat-square&logo=React&logoColor=white">
 <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white"><br>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white">
 </p>
