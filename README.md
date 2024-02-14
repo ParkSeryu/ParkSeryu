@@ -26,5 +26,5 @@
 
 🎁<I>[RESUME](https://indecisive-waltz-b8d.notion.site/Junior-Backend-Developer-c25bac3217504d75bf553c34f9343928?pvs=4) </I> 
 <br/>
-🎈<I>[PORTFOLIO](https://indecisive-waltz-b8d.notion.site/JunHyeong-Park-b4e37f0d669a43939b6c237b96cea4f1?pvs=4)</I> <br/>
+<!-- 🎈<I>[PORTFOLIO](https://indecisive-waltz-b8d.notion.site/JunHyeong-Park-b4e37f0d669a43939b6c237b96cea4f1?pvs=4)</I> <br/> !-->
 ✏️<I>[DEVLOG](https://parkseryu.tistory.com/)</I>    
