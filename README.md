@@ -16,10 +16,4 @@
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
 </p>
 </div>
-
-
-
-
 <br>
-
-✏️<I>[DEVLOG](https://parkseryu.tistory.com/)</I>    
