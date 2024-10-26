@@ -17,12 +17,9 @@
 </p>
 </div>
 
-  <h5> ⦁ 네이버 클라우드 AIaaS 5기 2023.03.10. ~ 2023.09.11. </h5>
-
 
 
 
 <br>
 
-🎈<I>[PORTFOLIO](https://indecisive-waltz-b8d.notion.site/JunHyeong-Park-b4e37f0d669a43939b6c237b96cea4f1?pvs=4)</I><br/>
 ✏️<I>[DEVLOG](https://parkseryu.tistory.com/)</I>    
